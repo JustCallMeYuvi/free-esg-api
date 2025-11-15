@@ -1,0 +1,7 @@
+{
+  "AAPL": { "co2": 3.2, "esg": 72, "rating": "A" },
+  "TSLA": { "co2": 2.1, "esg": 80, "rating": "A+" },
+  "MSFT": { "co2": 1.8, "esg": 90, "rating": "A+" },
+  "GOOGL": { "co2": 4.0, "esg": 65, "rating": "B" },
+  "AMZN": { "co2": 5.2, "esg": 55, "rating": "C" }
+}
