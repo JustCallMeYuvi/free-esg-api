@@ -1,7 +1,45 @@
 {
   "AAPL": { "co2": 3.2, "esg": 72, "rating": "A" },
-  "TSLA": { "co2": 2.1, "esg": 80, "rating": "A+" },
   "MSFT": { "co2": 1.8, "esg": 90, "rating": "A+" },
   "GOOGL": { "co2": 4.0, "esg": 65, "rating": "B" },
-  "AMZN": { "co2": 5.2, "esg": 55, "rating": "C" }
+  "AMZN": { "co2": 5.2, "esg": 55, "rating": "C" },
+  "META": { "co2": 3.5, "esg": 70, "rating": "A" },
+  "NVDA": { "co2": 2.4, "esg": 85, "rating": "A+" },
+  "TSLA": { "co2": 2.1, "esg": 80, "rating": "A+" },
+  "AMD": { "co2": 2.7, "esg": 78, "rating": "A" },
+  "INTC": { "co2": 2.9, "esg": 82, "rating": "A" },
+  "IBM": { "co2": 3.8, "esg": 74, "rating": "A" },
+
+  "NFLX": { "co2": 2.9, "esg": 68, "rating": "B+" },
+  "DIS": { "co2": 4.1, "esg": 66, "rating": "B+" },
+  "PYPL": { "co2": 2.6, "esg": 79, "rating": "A" },
+  "ADBE": { "co2": 1.9, "esg": 88, "rating": "A+" },
+  "CRM": { "co2": 1.6, "esg": 91, "rating": "A+" },
+
+  "JPM": { "co2": 6.0, "esg": 60, "rating": "B" },
+  "BAC": { "co2": 5.2, "esg": 62, "rating": "B" },
+  "C": { "co2": 5.5, "esg": 58, "rating": "C+" },
+  "MS": { "co2": 4.8, "esg": 70, "rating": "A" },
+  "GS": { "co2": 6.3, "esg": 57, "rating": "C" },
+  "WFC": { "co2": 4.9, "esg": 61, "rating": "B" },
+
+  "WMT": { "co2": 7.5, "esg": 58, "rating": "C" },
+  "TGT": { "co2": 6.1, "esg": 64, "rating": "B" },
+  "COST": { "co2": 5.0, "esg": 67, "rating": "B+" },
+  "HD": { "co2": 4.5, "esg": 72, "rating": "A" },
+  "LOW": { "co2": 4.2, "esg": 73, "rating": "A" },
+
+  "F": { "co2": 7.0, "esg": 50, "rating": "C" },
+  "GM": { "co2": 6.8, "esg": 54, "rating": "C+" },
+  "RIVN": { "co2": 3.0, "esg": 72, "rating": "A" },
+  "LCID": { "co2": 2.5, "esg": 75, "rating": "A" },
+
+  "XOM": { "co2": 8.5, "esg": 45, "rating": "D" },
+  "CVX": { "co2": 7.9, "esg": 48, "rating": "D+" },
+  "COP": { "co2": 7.0, "esg": 52, "rating": "C" },
+  "BP": { "co2": 8.2, "esg": 46, "rating": "D" },
+
+  "KO": { "co2": 3.0, "esg": 75, "rating": "A" },
+  "PEP": { "co2": 3.4, "esg": 77, "rating": "A" },
+  "MCD": { "co2": 4.3, "esg": 63, "rating": "B" }
 }
